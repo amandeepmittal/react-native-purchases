@@ -44,7 +44,7 @@
     "examples/purchaseTesterTypescript",
     "react-native-purchases-ui"
   ],
-  "packageManager": "yarn@3.6.1",
+  "packageManager": "yarn@3.6.4",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/revenuecat/react-native-purchases.git",
